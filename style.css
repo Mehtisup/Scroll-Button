@@ -1,0 +1,31 @@
+<style>
+body {
+    font-family: sans-serif;;
+}
+p {
+    font-size: 17px;
+}
+.btn {
+    background-color: mediumblue;
+    color:white;
+    bottom: 0px;
+    font-size:18px;
+    padding: 10px;
+    transition: 1s;
+    width: 80px;
+    border-radius: 10px;
+    opacity:0;
+    outline: none;
+    border: none;
+    right:30px;
+    position:fixed;
+    z-index: 9;
+    cursor: pointer;
+}
+h1 {
+    color:mediumblue;
+}
+html {
+    scroll-behavior:smooth;
+}
+</style>
